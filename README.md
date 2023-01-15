@@ -1,6 +1,7 @@
 <a href="https://www.linkedin.com/in/gauthier-corion-1a756a1a4/">
   <img align="left" alt="Gauthier Corion LinkedIn" width="22px" src="https://skylord.fr/linkedinn.svg" />
 </a>
+![badge](https://visitor-badge.glitch.me/badge?page_id=MisterGranti67.MisterGranti67)
 
 </br>
 
