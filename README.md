@@ -16,7 +16,7 @@
     <li><img src="https://skylord.fr/french.png" style="width: 16px;"> My nationality : French.</li>
     <li>🎉 Fun Fact: I hate spinach.</li>
     
-    <li>To support me in my projects and my own business, I accept paypal donations <a href="https://www.paypal.me/mrbaguette078"><img src="https://ionicabizau.github.io/badges/paypal.svg"></a></li>
+    <li>To support me in my projects and my own business, I accept paypal donations <a href="https://www.paypal.me/mrbaguette078"><img src="https://skylord.fr/paypal.svg"></a></li>
   </ul>
 </div>
 
