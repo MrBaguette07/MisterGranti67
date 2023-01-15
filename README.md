@@ -21,4 +21,5 @@
 </br>
 
 <img style="margin-left: auto;margin-right: auto" src="https://github-readme-stats.vercel.app/api?username=MisterGranti67&show_icons=true">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MisterGranti67&layout=compact)](https://github.com/MisterGranti67)
+<img style="margin-left: auto;margin-right: auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisterGranti67&layout=compact">
+
