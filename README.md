@@ -14,7 +14,7 @@
     <li>📝 I am often active on <a href="https://www.linkedin.com/in/gauthier-corion-1a756a1a4">LinkedIn</a>.</li>
     <li>💬 Ping me about <strong>Backend, Frontend, Web, Minecraft, Entrepreneurship</strong>.</li>
     <li>🎉 Fun Fact: I hate spinach.</li>
-    <li>To support me in my projects, I accept paypal donations <a href="https://www.paypal.me/mrbaguette078"><img src="https://ionicabizau.github.io/badges/paypal.svg"></a></li>
+    <li>To support me in my projects and my own business, I accept paypal donations <a href="https://www.paypal.me/mrbaguette078"><img src="https://ionicabizau.github.io/badges/paypal.svg"></a></li>
   </ul>
 </div>
 
