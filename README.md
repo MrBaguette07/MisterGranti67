@@ -13,7 +13,7 @@
     <li>👨‍💻 Most of my projects are available on <a href="https://github.com/MisterGranti67">my portfolio website</a>.</li>
     <li>📝 I am often active on <a href="https://www.linkedin.com/in/gauthier-corion-1a756a1a4">LinkedIn</a>.</li>
     <li>💬 Ping me about <strong>Backend, Frontend, Web, Minecraft, Entrepreneurship</strong>.</li>
-    <li><img src="https://skylord.fr/french.png" style="width: 32px;"> My nationality : French.</li>
+    <li><img src="https://skylord.fr/french.png" style="width: 16px;"> My nationality : French.</li>
     <li>🎉 Fun Fact: I hate spinach.</li>
     
     <li>To support me in my projects and my own business, I accept paypal donations <a href="https://www.paypal.me/mrbaguette078"><img src="https://ionicabizau.github.io/badges/paypal.svg"></a></li>
