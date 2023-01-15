@@ -20,4 +20,4 @@
 </br>
 </br>
 
-<center><img src="https://github-readme-stats.vercel.app/api?username=MisterGranti67&show_icons=true"></center>
+<img style="margin-left: auto;margin-right: auto" src="https://github-readme-stats.vercel.app/api?username=MisterGranti67&show_icons=true">
