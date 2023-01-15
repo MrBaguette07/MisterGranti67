@@ -20,6 +20,6 @@
 </br>
 </br>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=MisterGranti67&show_icons=true&theme=great-gatsby" alt="MisterGranti67" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mrbaguette07&show_icons=true&theme=great-gatsby" alt="mrbaguette07" />
 
-<img width="0" src="https://visitor-badge.glitch.me/badge?page_id=MisterGranti67.MisterGranti67" />
+<img width="0" src="https://visitor-badge.glitch.me/badge?page_id=MisterGranti67.mrbaguette07" />
