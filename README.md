@@ -11,7 +11,7 @@
   <ul>
     <li>🧐 I study at the University Littoral Côté d'Opale in the 2nd year of BUT Informatique.</li>
     <li>👨‍💻 Most of my projects are available on <a href="https://github.com/MisterGranti67">my portfolio website</a>.</li>
-    <li>📝 I am often active on <a href="https://www.linkedin.com/in/gauthier-corion-1a756a1a4">LinkedIn</a>.</li>
+    <li>📝 I am often active on <a href="https://www.linkedin.com/in/gauthier-corion">LinkedIn</a>.</li>
     <li>💬 Ping me about <strong>Backend, Frontend, Web, Minecraft, Entrepreneurship</strong>.</li>
     <li><img src="https://skylord.fr/french.png" style="width: 16px;"> My nationality : French.</li>
     <li>🎉 Fun Fact: I hate spinach.</li>
