@@ -23,15 +23,6 @@
 </br>
 
 
-<div align="center">
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MisterGranti67&layout=compact&theme=dark#gh-dark-mode-only&card_width=854)](https://gauthiercorion.fr)
-  
-  <br>
-
-  [![Stats github](https://github-readme-stats.vercel.app/api?username=MisterGranti67&show_icons=true&theme=dark#gh-dark-mode-only)](https://gauthiercorion.fr)
-  
-</div>
 
 | <img align="center" src="https://github-readme-stats.vercel.app/api?username=MisterGranti67&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisterGranti67&layout=compact&theme=buefy&hide_border=true" />|
 | ------------- | ------------- |
