@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=babel,bootstrap,c,cpp,css,flutter,git,gradle,html,java,jquery,js,laravel,markdown,materialui,maven,mongodb,mysql,netlify,nodejs,php,postgres,pug,py,qt,react,redis,saas,symfony,threejs,ts,typescript,vue&theme=light" />
+    <img src="https://skillicons.dev/icons?i=babel,bootstrap,c,cpp,css,flutter,git,gradle,html,java,jquery,js,laravel,markdown,materialui,maven,mongodb,mysql,netlify,nodejs,php,postgres,pug,py,qt,react,redis,sass,symfony,threejs,typescript,vue&theme=light" />
   </a>
 </p>
 
