@@ -34,7 +34,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,blender,cloudflare,coodepen,discord,docker,figma,github,gitlab,idea,linux,postman,stackoverflow,unity,vscode,webasembly,webflow&theme=light" />
+    <img src="https://skillicons.dev/icons?i=arduino,blender,cloudflare,codepen,discord,docker,figma,github,gitlab,idea,linux,postman,stackoverflow,unity,vscode,webassembly,webflow&theme=light" />
   </a>
 </p>
 
